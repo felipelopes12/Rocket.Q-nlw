@@ -90,8 +90,6 @@ button > img,
     width: 2rem;
 }
 
-/*Classes*/
-
 button.outlined,
 .button.outlined{
     background: var(--white);
